@@ -3,13 +3,12 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
+    title: IEEE MOVE Radio Club
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      The radio club is open to interested radio enthusiasts who wish to develop radio skills and practices to support the IEEE MOVE Deployments.
     actions:
-      - label: Get Started
+      - label: Enter
         url: /docs
         style: primary
   - section_id: features
@@ -18,101 +17,56 @@ sections:
     grid_items:
       - title: Documentation
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Documentation about club equipment, configuration, and projects including DMR.
         actions:
           - label: Get Started
             url: /docs
             style: link
       - title: Blog
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Posts from members supporting the mission of the Radio Club.
         actions:
           - label: View Posts
             url: /blog
             style: link
-      - title: Style Guide
+      - title: About
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Information about the club, its officers, and governance.
         actions:
           - label: Learn More
             url: /style-guide
             style: link
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: images/move-houston.jpg
     image_position: left
-    title: A Section With An Image
+    title: IEEE MOVE Project
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      To find out more about the IEEE MOVE Project visit their website.
     actions:
-      - label: View Demo
-        url: /docs/getting-started
+      - label: Visit
+        url: https://move.ieeeusa.org/
         style: primary
-      - label: Get Started
-        url: /docs/getting-started
-        style: secondary
-  - section_id: text-no-img
-    type: section_content
-    title: A Section Without Image
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
-  - section_id: features-two-col
-    type: section_grid
-    title: Sample Layouts
-    subtitle: An optional subtitle of the section
-    col_number: two
-    grid_items:
-      - title: Overview
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
-        actions:
-          - label: Learn More
-            url: /overview
-            style: link
-      - title: Showcase
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - label: Learn More
-            url: /showcase
-            style: link
   - section_id: cta
     type: section_cta
-    title: The Title of The Call to Action Block
-    subtitle: This is an optional description for the call to action block.
+    title: Interested, want to join?
+    subtitle: If you wish to join us, please fill out this membership application.
     actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
+      - label: Join
+        url: https://airtable.com/shrHByD3JBFiXLYy0
         style: primary
 seo:
-  title: Stackbit Libris Theme
-  description: The preview of the Libris theme
+  title: IEEE MOVE Radio Club
+  description: The IEEE MOVE Radio Club's Web Site supporting volunteers worldwide
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Libris Theme
+      value: IEEE MOVE Radio Club
       keyName: property
     - name: 'og:description'
-      value: The preview of the Libris theme
+      value: The IEEE MOVE Radio Club's Web Site supporting volunteers worldwide
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
@@ -121,9 +75,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Libris Theme
+      value: IEEE MOVE Radio Club
     - name: 'twitter:description'
-      value: The preview of the Libris theme
+      value: The IEEE MOVE Radio Club's Web Site supporting volunteers worldwide
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true

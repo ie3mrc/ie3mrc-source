@@ -6,9 +6,9 @@ collections:
     permalink: '/posts/:title/'
 palette: blue
 header:
-  title: Libris
-  logo_img: images/logo.svg
-  logo_img_alt: Libris logo
+  title: IEEE MOVE Radio Club
+  logo_img: images/MOVE.jpg
+  logo_img_alt: IEEE MOVE logo
   has_nav: true
   nav_links:
     - label: Home
@@ -44,11 +44,7 @@ header:
       has_subnav: false
 footer:
   content: >-
-    &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
-    href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
-    rel="noopener">Stackbit</a>. Create yours <a
-    href="https://app.stackbit.com/create?theme=libris&utm_source=deployed-footer"
-    target="_blank" rel="noopener">now</a>
+     Prototype - March 2021
   has_social: true
   social_links:
     - label: Twitter
