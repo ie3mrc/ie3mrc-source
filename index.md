@@ -29,8 +29,8 @@ sections:
         content: >-
           Information about the club, its officers, and governance.
         actions:
-          - label: Learn More
-            url: /style-guide
+          - label: About
+            url: /docs/about
             style: link
   - section_id: text-img
     type: section_content

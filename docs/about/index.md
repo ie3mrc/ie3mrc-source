@@ -45,14 +45,12 @@ This is built as a static website using the Jekyll generator with the Libris doc
 [https://www.stackbit.com](https://www.stackbit.com).
 
 You can find the source code for Libris at GitHub:
-[StackBit][stackbit-organization] / [Libris](https://github.com/jekyll/minima)
+[StackBit][stackbit-organization] / [Libris](https://github.com/stackbit/stackbit-theme-libris)
 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)[https://www.stackbit.com]
+[jekyll](https://github.com/jekyll/jekyll)
 
-
-Regular membership is open to IEEE members who are licensed amateur radio operators.  Associate membership is open to anyone with an interest.
 
 [stackbit-organization]: https://github.com/stackbit
 [jekyll-organization]: https://github.com/jekyll
