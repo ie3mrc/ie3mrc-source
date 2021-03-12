@@ -1,21 +1,21 @@
 ---
-title: Blog
-subtitle: This is an optional subtitle for the blog page
+title: MOVE Radio Club Blog
+subtitle: Broadcasting to members and other radio enthusiasts
 image: images/5.jpg
 has_more_link: true
 more_link_text: Read more
 seo:
-  title: Blog
-  description: This is the blog page
+  title: MOVE Radio Club Blog
+  description: Broadcasting to members and other radio enthusiasts
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: MOVE Radio Club Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: Broadcasting to members and other radio
       keyName: property
     - name: 'og:image'
       value: images/5.jpg

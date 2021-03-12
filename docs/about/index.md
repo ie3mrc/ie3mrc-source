@@ -24,14 +24,37 @@ seo:
 layout: docs
 ---
 
-The IEEE MOVE Amateur Radio Club was formed in March 2021 to support the radio enthusiasts of the IEEE MOVE Project.
+The IEEE MOVE Amateur Radio Club was formed in March 2021 to support the radio enthusiasts of the [IEEE MOVE Project][].
 
-The MOVE Project ... Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Regular membership is open to [IEEE][] members who are licensed amateur radio operators. Associate membership is open to anyone with an interest.
 
-The Radio Club ... Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi?
+## Present Officers
+
+| Position   | Name            | Call Sign |
+|:-----------|:----------------|:----------|
+| Chair      | Butch Shadwell  | KV4YQ     |
+| Vice Chair | Jay Diepenbrock | KM4EP     |
+| Secretary  | Dave Green      | WB4KSL    |
+| Trustee    | David Wright    |           |
+| ???        | Grayson Randall | N2VIE     |
+
+
+## Colophon
+
+This is built as a static website using the Jekyll generator with the Libris documentation theme from StackBit. You can find out more info at [jekyllrb.com](https://jekyllrb.com/) and
+[https://www.stackbit.com](https://www.stackbit.com).
+
+You can find the source code for Libris at GitHub:
+[StackBit][stackbit-organization] / [Libris](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)[https://www.stackbit.com]
+
 
 Regular membership is open to IEEE members who are licensed amateur radio operators.  Associate membership is open to anyone with an interest.
 
-***
-
-Here are the articles in this section:
+[stackbit-organization]: https://github.com/stackbit
+[jekyll-organization]: https://github.com/jekyll
+[IEEE MOVE Project]: https://https://move.ieeeusa.org/
+[IEEE]: https://ieee.org

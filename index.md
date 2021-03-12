@@ -7,10 +7,6 @@ sections:
     image: images/5.jpg
     content: >-
       The radio club is open to interested radio enthusiasts who wish to develop radio skills and practices to support the IEEE MOVE Deployments.
-    actions:
-      - label: Enter
-        url: /docs
-        style: primary
   - section_id: features
     type: section_grid
     col_number: three
@@ -83,3 +79,11 @@ seo:
       relativeUrl: true
 layout: advanced
 ---
+<!--
+Removed from the end of the Hero Section
+
+    actions:
+      - label: Enter
+        url: /docs
+        style: primary
+-->
