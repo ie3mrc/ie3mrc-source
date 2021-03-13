@@ -49,7 +49,7 @@ sections:
     subtitle: If you wish to join us, please fill out this membership application.
     actions:
       - label: Join
-        url: https://airtable.com/shrHByD3JBFiXLYy0
+        url: /join
         style: primary
 seo:
   title: IEEE MOVE Radio Club
