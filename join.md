@@ -28,4 +28,4 @@ layout: page
 
 If the above form is difficult to use, you go to the [AirTable website](https://airtable.com/shrHByD3JBFiXLYy0) to fill out the form.
 
-In eithe case, if there are problems, please contact <mailto:ie3mrc@gmail.com>.
+In either case, if there are problems, please contact <mailto:ie3mrc@gmail.com>.
