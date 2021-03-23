@@ -35,7 +35,7 @@ Regular membership is open to [IEEE][] members who are licensed amateur radio op
 | Chair              | Butch Shadwell  | KV4YQ     |
 | Vice Chair         | Jay Diepenbrock | KM4EP     |
 | Secretary          | Dave Green      | WB4KSL    |
-| Trustee            | David Wright    |           |
+| Trustee            | David Wright    | W4LMW     |
 | Strategic Planning | Grayson Randall | N2VIE     |
 
 
