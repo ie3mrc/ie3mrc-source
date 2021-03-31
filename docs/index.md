@@ -22,6 +22,6 @@ seo:
 layout: docs
 ---
 
-This is the public documentation for the IEEE MOVE Radio Club.  Some documentation is here as web pages and files, while other information is in a [shared Google Drive Space]({{ site.google-space }}).
+This is the public documentation for the IEEE MOVE Radio Club.  Some documentation is here as web pages and files, while other information is in a [public Google Folder]({{ site.google-space }}).
 
 Content, corrections, and suggestions may be sent to <mailto:ie3mrc@gmail.com>.
