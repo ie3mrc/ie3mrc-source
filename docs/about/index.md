@@ -28,6 +28,14 @@ The IEEE MOVE Amateur Radio Club was formed in March 2021 to support the radio e
 
 Regular membership is open to [IEEE][] members who are licensed amateur radio operators. Associate membership is open to anyone with an interest.
 
+## Vision
+
+The IEEE MOVE Radio Club's vision is to support radio communications during disasters focusing on IEEE MOVE deployed teams. We will train our members and partner agencies on the latest technologies to provide disaster communications.
+
+## Mission
+
+The IEEE MOVE Radio Club will support disaster communications with deployed MOVE teams and other agencies as appropriate.  The club will determine a set of radio communication tools and procedures, educate and train members on using these tools and procedures, and utilize these tools and procedures during disasters to collect and relay critical information to and from the disaster area(s). The club will interface with other organizations as appropriate to provide the best possible solution and support.
+
 ## Present Officers
 
 | Position           | Name            | Call Sign |
