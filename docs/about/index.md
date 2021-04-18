@@ -24,9 +24,13 @@ seo:
 layout: docs
 ---
 
-The IEEE MOVE Amateur Radio Club was formed in March 2021 to support the radio enthusiasts of the [IEEE MOVE Project][].
+The IEEE MOVE Amateur Radio Club was formed in March 2021 to support the radio enthusiasts of the [IEEE MOVE Project][].  The club call sign is **W4MOV**.
 
 Regular membership is open to [IEEE][] members who are licensed amateur radio operators. Associate membership is open to anyone with an interest.
+
+Meetings are online on the 4th Friday of every month at 7 PM Eastern time.  <!-- The connection details are inside the MOVE Radio Club Workspace on Collabratec. -->
+
+Club members are developing the capability to use Digital Mobile Radio (DMR) and plans to conduct training in order to prepare for disaster support.  The clubp's DMR ID is 3179400.
 
 ## Vision
 
@@ -49,7 +53,7 @@ The IEEE MOVE Radio Club will support disaster communications with deployed MOVE
 
 ## Colophon
 
-This is built as a static website using the Jekyll generator with the Libris documentation theme from StackBit. You can find out more info at [jekyllrb.com](https://jekyllrb.com/) and
+This site is built as a static website using the Jekyll generator with the Libris documentation theme from StackBit. You can find out more info at [jekyllrb.com](https://jekyllrb.com/) and
 [https://www.stackbit.com](https://www.stackbit.com).
 
 You can find the source code for Libris at GitHub:

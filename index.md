@@ -36,12 +36,17 @@ sections:
     type: section_content
     image: images/move-houston.jpg
     image_position: left
-    title: IEEE MOVE Project
+    title: Welcome to the IEEE MOVE Radio Club W4MOV
     content: >-
-      To find out more about the IEEE MOVE Project visit their website.
+      One of the important services of the MOVE program has been emergency communications to support the Red Cross first responders and victims.  This year we are expanding these communications services through the establishment of an IEEE Amateur Radio Club.  If you are already an amateur operator, you will be familiar with ham radio clubs.  This IEEE program will follow the standard model fairly closely, with the one exception that we exist specifically to organize, and work in preparation for, emergency operations nets.  Our plan is to develop efficient emergency communications methods through the expertise and efforts of IEEE volunteers.
+      <br><br>
+      73, Butch Shadwell KV4YQ, IMRC Chair
     actions:
-      - label: Visit
-        url: https://move.ieeeusa.org/
+      - label: Complete Welcome Message
+        url: /blog/welcome/
+        style: primary
+      - label: More Information on IEEE MOVE
+        url: https://move.ieeeusa.org
         style: primary
   - section_id: cta
     type: section_cta
