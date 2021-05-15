@@ -25,7 +25,7 @@ header:
       has_subnav: false
 footer:
   content: >-
-     Prototype - April 2021
+     Updated - May 2021
   has_social: false
   social_links:
     - label: Twitter
@@ -62,5 +62,5 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: 'https://ie3mrc.github.io'
+domain: 'https://radioclub.moveteams.org'
 google-space: 'https://drive.google.com/drive/folders/1wBDvV5gWA_-wGpIm_g64aLZXrF48YPoB?usp=sharing'

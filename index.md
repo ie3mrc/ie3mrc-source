@@ -70,7 +70,7 @@ seo:
       value: The IEEE MOVE Radio Club's Web Site supporting volunteers worldwide
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/MOVE.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -80,15 +80,7 @@ seo:
     - name: 'twitter:description'
       value: The IEEE MOVE Radio Club's Web Site supporting volunteers worldwide
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/MOVE.jpg
       relativeUrl: true
 layout: advanced
 ---
-<!--
-Removed from the end of the Hero Section
-
-    actions:
-      - label: Enter
-        url: /docs
-        style: primary
--->
