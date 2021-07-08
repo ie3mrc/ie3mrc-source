@@ -28,7 +28,10 @@ The IEEE MOVE Amateur Radio Club was formed in March 2021 to support the radio e
 
 Regular membership is open to [IEEE][] members who are licensed amateur radio operators. Associate membership is open to anyone with an interest.
 
-Meetings are online on the 4th Friday of every month at 7 PM Eastern time.  <!-- The connection details are inside the MOVE Radio Club Workspace on Collabratec. -->
+Meetings are online on the 4th Friday of every month at 7 PM Eastern time.  Connection details are inside the [MOVE Radio Club Workspace on Collabratec][CTlink] and [meeting details are on vTools][vTools].
+
+[CTlink]: https://ieee-collabratec.ieee.org/app/workspaces/7513/IEEE-MOVE-Radio-Club/activities
+[vTools]: https://events.vtools.ieee.org/events/search?utf8=%E2%9C%93&_sub=true&q=IEEE+MOVE+Radio+Club&ou=&d=Upcoming&commit=Search
 
 Club members are developing the capability to use Digital Mobile Radio (DMR) and plans to conduct training in order to prepare for disaster support.
 

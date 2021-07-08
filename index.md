@@ -48,14 +48,31 @@ sections:
       - label: More Information on IEEE MOVE
         url: https://move.ieeeusa.org
         style: primary
-  - section_id: cta
-    type: section_cta
-    title: Interested, want to join?
-    subtitle: If you wish to join us, please fill out this membership application.
-    actions:
-      - label: Join
-        url: /join
-        style: primary
+  - section_id: features
+    type: section_grid
+    col_number: three
+    grid_items:
+      - title: Interested, want to join?
+        content: If you wish to join us, please fill out this membership application.
+        actions:
+        - label: Join
+          url: /join
+          style: primary
+      - title: Collabratec Workspace
+        content: >-
+          The Collabratec Workspace is limited to Radio Club members and requires a free account. 
+        actions:
+        - label: Goto Workspace
+          url: https://ieee-collabratec.ieee.org/app/workspaces/7513/IEEE-MOVE-Radio-Club/activities
+          style: primary
+      - title: Upcoming Meetings
+        content: >-
+          IEEE MOVE Radio Club meetings are online and open to all.
+        actions:
+          - label: View or Register
+            url: https://events.vtools.ieee.org/events/search?utf8=â%C2%9C%C2%93&_sub=true&q=IEEE+MOVE+Radio+Club&ou=&d=Upcoming&commit=Search
+            style: primary
+
 seo:
   title: IEEE MOVE Radio Club
   description: The IEEE MOVE Radio Club's Web Site supporting volunteers worldwide
