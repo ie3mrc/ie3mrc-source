@@ -11,34 +11,33 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Documentation
+      - title: Upcoming Meetings
         content: >-
-          Documentation about club equipment, configuration, and projects including DMR.
+          IEEE MOVE Radio Club meetings are online and open to all.
         actions:
-          - label: Get Started
-            url: /docs
-            style: link
-      - title: Blog
+          - label: View or Register
+            url: https://events.vtools.ieee.org/events/search?utf8=â%C2%9C%C2%93&_sub=true&q=IEEE+MOVE+Radio+Club&ou=&d=Upcoming&commit=Search
+            style: primary
+      - title: Collabratec Workspace
         content: >-
-          Posts from members supporting the mission of the Radio Club.
+          The Collabratec Workspace is limited to Radio Club members and requires a free account. 
         actions:
-          - label: View Posts
-            url: /blog
-            style: link
-      - title: About
-        content: >-
-          Information about the club, its officers, and governance.
+        - label: Goto Workspace
+          url: https://ieee-collabratec.ieee.org/app/workspaces/7513/IEEE-MOVE-Radio-Club/activities
+          style: primary
+      - title: Interested, want to join?
+        content: If you wish to join us, please fill out this membership application.
         actions:
-          - label: About
-            url: /docs/about
-            style: link
+        - label: Join
+          url: /join
+          style: primary
   - section_id: text-img
     type: section_content
     image: images/move-houston.jpg
-    image_position: left
+    image_position: right
     title: Welcome to the IEEE MOVE Radio Club W4MOV
     content: >-
-      One of the important services of the MOVE program has been emergency communications to support the Red Cross first responders and victims.  This year we are expanding these communications services through the establishment of an IEEE Amateur Radio Club.  If you are already an amateur operator, you will be familiar with ham radio clubs.  This IEEE program will follow the standard model fairly closely, with the one exception that we exist specifically to organize, and work in preparation for, emergency operations nets.  Our plan is to develop efficient emergency communications methods through the expertise and efforts of IEEE volunteers.
+      One of the important services of the MOVE program has been emergency communications to support the Red Cross first responders and victims. This year we are expanding these communications services through the establishment of an IEEE Amateur Radio Club. If you are already an amateur operator, you will be familiar with ham radio clubs. This IEEE program will follow the standard model fairly closely, with the one exception that we exist specifically to organize, and work in preparation for, emergency operations nets. Our plan is to develop efficient emergency communications methods through the expertise and efforts of IEEE volunteers. 
       <br><br>
       73, Butch Shadwell KV4YQ, IMRC Chair
     actions:
@@ -48,30 +47,6 @@ sections:
       - label: More Information on IEEE MOVE
         url: https://move.ieeeusa.org
         style: primary
-  - section_id: features
-    type: section_grid
-    col_number: three
-    grid_items:
-      - title: Interested, want to join?
-        content: If you wish to join us, please fill out this membership application.
-        actions:
-        - label: Join
-          url: /join
-          style: primary
-      - title: Collabratec Workspace
-        content: >-
-          The Collabratec Workspace is limited to Radio Club members and requires a free account. 
-        actions:
-        - label: Goto Workspace
-          url: https://ieee-collabratec.ieee.org/app/workspaces/7513/IEEE-MOVE-Radio-Club/activities
-          style: primary
-      - title: Upcoming Meetings
-        content: >-
-          IEEE MOVE Radio Club meetings are online and open to all.
-        actions:
-          - label: View or Register
-            url: https://events.vtools.ieee.org/events/search?utf8=â%C2%9C%C2%93&_sub=true&q=IEEE+MOVE+Radio+Club&ou=&d=Upcoming&commit=Search
-            style: primary
 
 seo:
   title: IEEE MOVE Radio Club
