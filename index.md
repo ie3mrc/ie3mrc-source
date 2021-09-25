@@ -18,6 +18,9 @@ sections:
           - label: View or Register
             url: https://events.vtools.ieee.org/events/search?utf8=â%C2%9C%C2%93&_sub=true&q=IEEE+MOVE+Radio+Club&ou=&d=Upcoming&commit=Search
             style: primary
+          - label: Recent Meetings
+            url: https://events.vtools.ieee.org/events/search?utf8=â%C2%9C%C2%93&_sub=true&q=IEEE+MOVE+Radio+Club&ou=&d=Recent&commit=Search
+            style: primary
       - title: Collabratec Workspace
         content: >-
           The Collabratec Workspace is limited to Radio Club members and requires a free account. 
