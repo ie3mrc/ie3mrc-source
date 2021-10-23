@@ -28,7 +28,7 @@ The IEEE MOVE Amateur Radio Club was formed in March 2021 to support the radio e
 
 Regular membership is open to [IEEE][] members who are licensed amateur radio operators. Associate membership is open to anyone with an interest.
 
-Meetings are online on the 4th Friday of every month at 7 PM Eastern time.  Connection details are inside the [MOVE Radio Club Workspace on Collabratec][CTlink] and [meeting details are on vTools][vTools].
+Meetings are online on the 3rd Wednesday of every month at 8 PM Eastern time.  Connection details are inside the [MOVE Radio Club Workspace on Collabratec][CTlink] and [meeting details are on vTools][vTools].
 
 [CTlink]: https://ieee-collabratec.ieee.org/app/workspaces/7513/IEEE-MOVE-Radio-Club/activities
 [vTools]: https://events.vtools.ieee.org/events/search?utf8=%E2%9C%93&_sub=true&q=IEEE+MOVE+Radio+Club&ou=&d=Upcoming&commit=Search
@@ -47,7 +47,7 @@ The IEEE MOVE Radio Club will support disaster communications with deployed MOVE
 
 | Position           | Name            | Call Sign |
 |:-------------------|:----------------|:----------|
-| Chair              | Butch Shadwell  | KV4YQ     |
+| Chair              | open            |           |
 | Vice Chair         | Jay Diepenbrock | KM4EP     |
 | Secretary          | Dave Green      | WB4KSL    |
 | Trustee            | David Wright    | W4LMW     |
