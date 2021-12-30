@@ -51,9 +51,9 @@ Our radio club already has a core group of organizers, but we need more active h
 73,
 
 Butch Shadwell KV4YQ<br>
-IMRC Chair
+First IMRC Chair
 
 </div>
 
-[CTlink]: https://ieee-collabratec.ieee.org/app/workspaces/7513/IEEE-MOVE-Radio-Club/activities
-[VTLink]: https://events.vtools.ieee.org/m/276956
+[CTlink]: {{site.collabratec-space}}
+[VTLink]: {{site.vtools-ie3mrc}}

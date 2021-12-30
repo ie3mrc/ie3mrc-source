@@ -21,7 +21,7 @@ header:
       has_subnav: false
 footer:
   content: >-
-     Updated - September 2021
+     Updated - December 2021
   has_social: false
   social_links:
     - label: Twitter
@@ -59,4 +59,7 @@ exclude:
   - stackbit-build.sh
   - stackbit-pull.js
 domain: 'https://radioclub.moveteams.org'
+collabratec-space: 'https://ieee-collabratec.ieee.org/app/workspaces/7513/IEEE-MOVE-Radio-Club/activities'
+collabratec-files: 'https://ieee-collabratec.ieee.org/app/workspaces/7513/files'
+vtools-ie3mrc: 'https://events.vtools.ieee.org/m/276956'
 google-space: 'https://drive.google.com/drive/folders/1wBDvV5gWA_-wGpIm_g64aLZXrF48YPoB?usp=sharing'
