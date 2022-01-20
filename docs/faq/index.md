@@ -33,7 +33,7 @@ layout: docs
 
 ### When does the club meet?
 
-It presently meets the 3rd Monday of the month at 8 pm Eastern time.
+It presently meets the 3rd Wednesday of the month at 8 pm Eastern time.
 
 <hr />
 
