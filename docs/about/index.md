@@ -47,7 +47,7 @@ The IEEE MOVE Radio Club will support disaster communications with deployed MOVE
 
 | Position           | Name            | Call Sign |
 |:-------------------|:----------------|:----------|
-| Chair              | open            |           |
+| Chair              | Andy Moorwood   | K3CAQ     |
 | Vice Chair         | Jay Diepenbrock | KM4EP     |
 | Secretary          | Dave Green      | WB4KSL    |
 | Trustee            | David Wright    | W4LMW     |
