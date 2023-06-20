@@ -1,6 +1,6 @@
 ---
 title: Welcome to the IEEE MOVE Radio Club W4MOV
-date: '2021-04-17'
+date: '2023-06-19'
 excerpt: >-
   Our radio club already has a core group of organizers, but we need more active hams to add to our knowledge base and creative ideas.  Our club will have regular monthly meetings and scheduled controlled nets, to develop and hone our operating skills in preparation for future natural disasters.  If you have an FCC Amateur Radio license of any level, or have been thinking about getting one, we hope you will join us and request to join our Collabratec IEEE MOVE Radio Club Workspace.
 image: /images/np_walkie-walkie.png
@@ -42,18 +42,19 @@ layout: post
 
 <div markdown="1">
 
-Hopefully, most of you are already familiar with the IEEE MOVE project.  In short it is a Disaster Relief project that has been designed, maintained, and operated by IEEE volunteers for more than 5 years.  You will find a lot more information at this site if you need it, <https://move.ieeeusa.org/> .
+Hopefully, most of you are already familiar with the IEEE MOVE project. In short it is a Disaster Relief project that has been designed, maintained, and operated by IEEE volunteers for more than 7 years. You will find a lot more information at this site if you need it, <https://move.ieeeusa.org/> .
 
-One of the important services of this program has been emergency communications to support the Red Cross first responders and individuals impacted by the disaster.  This year we are expanding these communications services through the establishment of an IEEE Amateur Radio Club.  If you are already an amateur operator, you will be familiar with ham radio clubs.  This IEEE program will follow the standard model fairly closely, with the one exception that we exist specifically to organize, and work in preparation for, emergency operations nets.  Our plan is to develop efficient emergency communications methods through the expertise and efforts of IEEE volunteers.
+Red Cross responders and disaster survivors. Many MOVE volunteers who form the truck crews and support team are amateur radio operators.  Using amateur radio is an integral part of the MOVE communications plan.  To support MOVE’s mission, a radio club was formed to be an incubator of ideas, techniques, and practices to improve our capabilities in supporting the Red Cross’s mission and, if we are able, the wider amateur radio EmComm community.  One “complaint” of amateur operators involved with emergency communications is that they are “never activated”.  Disasters in your QTH are infrequent, and if they occur, aren’t so bad, “the pros handled it”.  MOVE is very different, we are all volunteers and are a nationwide, soon-to-be multi-national operation.  Between Hurricane Season and Fire Season(s), regrettably, our truck crew and support team volunteers are activated multiple times a year.  In addition, the trucks and team are active at STEM events across the USA.  If you are an IEEE member and an amateur radio operator interested in EmComm, maybe the IMRC is a group you should investigate.          
 
-Our radio club already has a core group of organizers, but we need more active hams to add to our knowledge base and creative ideas.  Our club will have regular monthly meetings and scheduled controlled nets, to develop and hone our operating skills in preparation for future disasters.  If you have an FCC Amateur Radio license of any level, or have been thinking about getting one, we hope you will join us and request to join our [Collabratec IEEE MOVE Radio Club Workspace][CTlink].  We will be posting the meeting links there.  You find about our upcoming meetings (and register for them) on [vTools][VTLink].
+The IMRC follows the standard amateur radio club model fairly closely, with the one exception that we exist specifically to organize, work in preparation for, and support our MOVE mission of disaster response. We hold monthly meetings with invited speakers and / or exercises to develop our skills in preparation for future disasters.  If you have an FCC Amateur Radio license of any level or have been thinking about getting one, we hope you will join us and [request to join our club][join].  We have a Collabratec community and listserv that we use for communications and collaboration that you will be added to when you join the club.
 
 73,
 
-Butch Shadwell KV4YQ<br>
-First IMRC Chair
+Andy Moorwood K3CAQ
+IMRC Chair
 
 </div>
 
 [CTlink]: {{site.collabratec-space}}
 [VTLink]: {{site.vtools-ie3mrc}}
+[join]: /join
