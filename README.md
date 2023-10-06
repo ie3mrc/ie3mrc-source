@@ -1,5 +1,13 @@
 # IEEE MOVE Radio Club
 
+2023-10-05 The site has been moved into IEEE Wordpress at https://move.ieee.org/radioclub
+
+A redirect has been hand inserted into the Github pages site to point to the new site.
+
+This code is now "archived".
+
+---
+
 This is the source for the website.  One compiles the site using Jekyll and then the _site folder contains the entire site.
 
 The site uses a framework extracted from Stackbit.
